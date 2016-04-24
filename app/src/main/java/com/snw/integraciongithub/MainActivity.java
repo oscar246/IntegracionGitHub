@@ -9,6 +9,8 @@ public class MainActivity extends AppCompatActivity {
 
     private String edgar = "oscar";
 
+    private static final String TAG = "MainActivity";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
