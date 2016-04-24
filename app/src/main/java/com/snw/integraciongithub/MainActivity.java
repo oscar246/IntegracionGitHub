@@ -7,7 +7,7 @@ public class MainActivity extends AppCompatActivity {
 
     private String oscar = "oscar";
 
-    private String edgar = "oscar";
+    private String edgar_enriquez = "Andres Enriquez";
 
     private static final String TAG = "MainActivity";
 
