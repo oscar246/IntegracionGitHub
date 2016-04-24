@@ -5,15 +5,17 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    private String oscar_david = null;
-
-    private String edgar = null;
-
     private static final String TAG = "MainActivity";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+    }
+
+    public void Click(){
+        /**
+         * Esto es un metodo de prueba en la branches Sprint-1
+         */
     }
 }
