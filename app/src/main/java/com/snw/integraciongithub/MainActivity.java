@@ -5,9 +5,9 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    private String oscar_david = "Oscar Giraldo";
+    private String oscar_david = null;
 
-    private String edgar = "Andres";
+    private String edgar = null;
 
     private static final String TAG = "MainActivity";
 
