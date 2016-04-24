@@ -13,9 +13,13 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void Click(){
+    public void click(){
         /**
          * Esto es un metodo de prueba en la branches Sprint-1
          */
+    }
+
+    public void metodoDos(){
+
     }
 }
